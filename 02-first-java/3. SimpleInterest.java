@@ -1,3 +1,4 @@
+//Video link: https://youtu.be/EJJKUG5PjoE
 import java.util.*;
 public class SimpleInterest {
 	public static void main(String[] args) {
